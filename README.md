@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
+## Enumeration
+|  |
+| ------- |
+| [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 <!---LeetCode Topics End-->
