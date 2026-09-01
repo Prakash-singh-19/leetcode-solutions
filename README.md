@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
