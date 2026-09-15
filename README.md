@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
