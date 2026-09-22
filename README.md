@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1920-build-array-from-permutation](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 ## Enumeration
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
