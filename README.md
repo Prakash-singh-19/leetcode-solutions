@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
