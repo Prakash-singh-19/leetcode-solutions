@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
