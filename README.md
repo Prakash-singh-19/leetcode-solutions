@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Newton's Method
 |  |
 | ------- |
