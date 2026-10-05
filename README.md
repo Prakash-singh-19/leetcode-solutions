@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 ## Enumeration
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Geometry
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
