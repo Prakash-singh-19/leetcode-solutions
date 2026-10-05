@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Minimax
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
