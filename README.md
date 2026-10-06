@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0220-contains-duplicate-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0414-third-maximum-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
