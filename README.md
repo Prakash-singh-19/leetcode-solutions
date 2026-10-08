@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
