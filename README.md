@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Interactive
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Quicksort
 |  |
 | ------- |
