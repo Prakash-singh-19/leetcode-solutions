@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1920-build-array-from-permutation](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2270-number-of-ways-to-split-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2679-sum-in-a-matrix](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
+| [2270-number-of-ways-to-split-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 ## Interactive
 |  |
 | ------- |
