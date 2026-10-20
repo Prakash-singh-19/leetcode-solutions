@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2679-sum-in-a-matrix](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2784-check-if-array-is-good](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2784-check-if-array-is-good](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2679-sum-in-a-matrix](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2784-check-if-array-is-good](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 ## Enumeration
 |  |
