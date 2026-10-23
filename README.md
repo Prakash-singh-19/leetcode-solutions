@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2679-sum-in-a-matrix](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 ## Two Pointers
 |  |
