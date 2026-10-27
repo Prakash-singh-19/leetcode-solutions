@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1920-build-array-from-permutation](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [2270-number-of-ways-to-split-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
