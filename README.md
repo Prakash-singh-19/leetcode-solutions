@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2860-happy-students](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2860-happy-students) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3282-reach-end-of-array-with-max-score) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
 |  |
