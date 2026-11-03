@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0142-linked-list-cycle-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0168-excel-sheet-column-title](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0205-isomorphic-strings) |
