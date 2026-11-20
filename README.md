@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
