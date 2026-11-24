@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Newton's Method
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
