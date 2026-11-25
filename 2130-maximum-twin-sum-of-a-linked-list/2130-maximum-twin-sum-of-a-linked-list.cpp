@@ -18,7 +18,6 @@ public:
             slow=slow->next;
 
         }
-        
         ListNode *prev=slow;
         slow=slow->next;
         prev->next=nullptr;
