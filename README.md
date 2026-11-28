@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
@@ -387,4 +391,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Prakash-singh-19/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
